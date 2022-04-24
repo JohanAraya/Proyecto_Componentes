@@ -1,0 +1,47 @@
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.deps.json
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\bin\Debug\net6.0\ref\Pojos.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.pdb
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfo.cs
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\obj\Debug\net6.0\ref\Pojos.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.deps.json
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.csproj.AssemblyReference.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfoInputs.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfo.cs
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.csproj.CoreCompileInputs.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\refint\Pojos.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\ref\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.deps.json
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.csproj.AssemblyReference.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfoInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfo.cs
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.csproj.CoreCompileInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\refint\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\ref\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.deps.json
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\bin\Debug\net6.0\Pojos.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.csproj.AssemblyReference.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfoInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfo.cs
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.csproj.CoreCompileInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\refint\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\ref\Pojos.dll

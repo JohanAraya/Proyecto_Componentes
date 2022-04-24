@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff874c59-c538-465f-8586-00fd01fa96de": {
+      "ProjectGuid": "ff874c59-c538-465f-8586-00fd01fa96de",
+      "DisplayName": "Conexion",
+      "ColorIndex": 0
+    },
+    "2af7a234-a166-4ef3-b40c-406c4af65d9b": {
+      "ProjectGuid": "2af7a234-a166-4ef3-b40c-406c4af65d9b",
+      "DisplayName": "Proyecto",
+      "ColorIndex": 1
+    },
+    "b912c3de-ae11-4fe0-a84a-1eeff499d79f": {
+      "ProjectGuid": "b912c3de-ae11-4fe0-a84a-1eeff499d79f",
+      "DisplayName": "Servicios",
+      "ColorIndex": 2
+    },
+    "28889c4b-b6b3-448e-94ef-9d6a4661d8a5": {
+      "ProjectGuid": "28889c4b-b6b3-448e-94ef-9d6a4661d8a5",
+      "DisplayName": "Pojos",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

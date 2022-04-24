@@ -1,0 +1,60 @@
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\bin\Debug\net6.0\ref\Servicios.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.pdb
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\bin\Debug\net6.0\Pojos.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\bin\Debug\net6.0\Pojos.pdb
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\ref\Servicios.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Pojos.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Pojos.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\refint\Servicios.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\ref\Servicios.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Pojos.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\refint\Servicios.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\ref\Servicios.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Servicios.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\bin\Debug\net6.0\Pojos.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\refint\Servicios.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\ref\Servicios.dll

@@ -1,0 +1,276 @@
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.exe
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.deps.json
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.runtimeconfig.json
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\ref\Conexion.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.pdb
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Pojos.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\bin\Debug\net6.0\Pojos.pdb
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.AssemblyReference.cache
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.AssemblyInfo.cs
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.CopyComplete
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\ref\Conexion.dll
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.pdb
+C:\Users\johan\Desktop\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.genruntimeconfig.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.exe
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.deps.json
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.runtimeconfig.json
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Pojos.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Pojos.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.AssemblyReference.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.AssemblyInfoInputs.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.AssemblyInfo.cs
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.CopyComplete
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\refint\Conexion.dll
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.pdb
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.genruntimeconfig.cache
+C:\Users\ali_z\Documents\Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\ref\Conexion.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.exe
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.deps.json
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.runtimeconfig.json
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Pojos.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.AssemblyReference.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.AssemblyInfoInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.AssemblyInfo.cs
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.CopyComplete
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\refint\Conexion.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.genruntimeconfig.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\ref\Conexion.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.exe
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.deps.json
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.runtimeconfig.json
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Conexion.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Pojos.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\bin\Debug\net6.0\Pojos.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.AssemblyReference.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.AssemblyInfoInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.AssemblyInfo.cs
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.csproj.CopyComplete
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\refint\Conexion.dll
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.pdb
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\Conexion.genruntimeconfig.cache
+C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Conexion\obj\Debug\net6.0\ref\Conexion.dll

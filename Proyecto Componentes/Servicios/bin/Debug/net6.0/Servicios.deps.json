@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Servicios/1.0.0": {
+        "dependencies": {
+          "Pojos": "1.0.0"
+        },
+        "runtime": {
+          "Servicios.dll": {}
+        }
+      },
+      "Pojos/1.0.0": {
+        "runtime": {
+          "Pojos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pojos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
